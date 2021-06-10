@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WoW Backup and Launch", "WoW Backup and Launch\WoW Backup and Launch.vdproj", "{BAEC68F1-DF4D-4236-94F6-F6803A8E784F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoW Backup And Restore", "WoW Backup And Restore\WoW Backup And Restore.csproj", "{A0706382-A257-489D-A05B-534E64278E2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAEC68F1-DF4D-4236-94F6-F6803A8E784F}.Debug|Any CPU.ActiveCfg = Debug
+		{BAEC68F1-DF4D-4236-94F6-F6803A8E784F}.Release|Any CPU.ActiveCfg = Release
+		{A0706382-A257-489D-A05B-534E64278E2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0706382-A257-489D-A05B-534E64278E2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0706382-A257-489D-A05B-534E64278E2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0706382-A257-489D-A05B-534E64278E2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE414777-0B07-47E9-816D-7FF8FEFDB602}
+	EndGlobalSection
+EndGlobal
